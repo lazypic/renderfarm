@@ -36,4 +36,9 @@
 $ java -jar sheepit-client-5.620.2885.jar
 ```
 
+- 만약 GUI를 켜지않고 터미널에서만 실행하고 싶다면 아래처럼 입력합니다.
+```
+$ java -jar sheepit-client-5.620.2885.jar -ui oneLine -login {ID} -password {PASSWORD}
+```
+
 
