@@ -52,6 +52,7 @@ $ java -jar sheepit-client-5.620.2885.jar -ui oneLine -login {ID} -password {PAS
 
 #### Lazypic에 Point 생성을 도와주고 싶다면..
 - 아래처럼 터미널에서 실행하면 Lazypic에 렌더포인트를 쌓을 수 있습니다.
+- Sheep it 에서 public Key를 발급하여 lazypic 계정에서 password로 사용합니다.
 ```
-$ java -jar sheepit-client-5.620.2885.jar -ui oneLie -login lazypic -password A0h4AqtgAzROfnXVkHYl6tIz7mI0DqpC1tglpt8M
+$ java -jar sheepit-client-5.620.2885.jar -ui oneLine -login lazypic -password A0h4AqtgAzROfnXVkHYl6tIz7mI0DqpC1tglpt8M
 ```
