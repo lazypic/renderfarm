@@ -27,7 +27,7 @@
 - Point가 쌓이면 렌더 우선순위가 올라갑니다.
 - Sheep it 클라이언트를 다운로드합니다.
 	- https://www.sheepit-renderfarm.com/getstarted.php
-- macOS에 java가 설치되어있어야 합니다.
+- macOS에 java JRE가 설치되어있어야 합니다.
 	- 설치되어있지 않다면 아래 URL에서 다운로드 및 설치를 진행합니다.
 	- https://java.com/en/download/mac_download.jsp
 - java가 설치되었다면, 터미널에서 렌더클라이언트를 실행방법은 아래와 같습니다.
