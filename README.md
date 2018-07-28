@@ -22,15 +22,16 @@
 - Lazypic 팀페이지 : https://www.sheepit-renderfarm.com/team.php?id=34
 
 #### Sheep It 렌더클라언트 실행
-- 자신의 컴퓨터를 렌더팜으로 만들기 위한 렌더클라이언트 실행법 설명입니다.
-- 클라이언트를 켜면, 자신의 프로젝트는 항상 먼저 렌더링됩니다.
-- Point가 쌓이면 렌더 우선순위가 올라갑니다.
+- 자신의 컴퓨터를 렌더팜으로 만드는 방법입니다.
+- 렌더 클라이언트를 켜면, 자신의 프로젝트는 항상 먼저 렌더링됩니다.
+- 또한 Point가 쌓이며, 이 Point로 렌더 우선순위가 올라갑니다.
+- 아래 부터는 Sheep it 렌더클라이언트를 설치하고 실행하는 방법을 설명합니다.
 - Sheep it 클라이언트를 다운로드합니다.
 	- https://www.sheepit-renderfarm.com/getstarted.php
 - macOS에 java JRE가 설치되어있어야 합니다.
 	- 설치되어있지 않다면 아래 URL에서 다운로드 및 설치를 진행합니다.
 	- https://java.com/en/download/mac_download.jsp
-- java가 설치되었다면, 터미널에서 렌더클라이언트를 실행방법은 아래와 같습니다.
+- 터미널에서 렌더클라이언트를 실행방법은 아래와 같습니다.
 ```
 $ java -jar sheepit-client-5.620.2885.jar
 ```
