@@ -18,7 +18,7 @@
 	- 이제 파일을 저장하면, 블렌더파일에 텍스처 및 필요한 파일이 포함되었습니다.
 - https://www.sheepit-renderfarm.com/jobs.php?mode=add 에 위 파일을 업로드합니다.
 - .blend 파일은 단일파일로 최대 500메가까지 올릴 수 있습니다.
-- 만약 한프레임에 30분이상 렌더링이 지속된다면 Estimator를 작성할것.
+- 만약 한프레임에 30분이상 렌더링이 지속된다면 Estimator를 작성해서 Sheep it에 정보를 제공해주세요.
 - Lazypic 팀페이지 : https://www.sheepit-renderfarm.com/team.php?id=34
 
 #### Sheep It 렌더클라언트 실행
