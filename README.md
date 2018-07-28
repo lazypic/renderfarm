@@ -1,4 +1,4 @@
-# renderfarm
+# Renderfarm
 
 - Lazypic 렌더팜 규칙을 설명한 페이지 입니다.
 - 일반적으로 `로컬렌더링 > Sheepit렌더링` 형태로 진행합니다.
