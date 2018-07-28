@@ -40,5 +40,14 @@ $ java -jar sheepit-client-5.620.2885.jar
 ```
 $ java -jar sheepit-client-5.620.2885.jar -ui oneLine -login {ID} -password {PASSWORD}
 ```
+- oneLine모드에서는 아래 명령어를 사용할 수 있습니다.
+	- status: display client status
+	- priority <n>: set the priority for the next renderjob
+	- block:  block project
+	- pause:  pause client requesting new jobs
+	- resume: resume after client was paused
+	- stop:   exit after frame was finished
+	- cancel: cancel exit
+	- quit:   exit now
 
 
