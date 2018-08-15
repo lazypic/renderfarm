@@ -57,3 +57,7 @@ $ java -jar sheepit-client-5.620.2885.jar -ui oneLine -login {ID} -password {PAS
 $ wget https://www.sheepit-renderfarm.com/media/applet/sheepit-client-5.620.2885.jar
 $ java -jar ./sheepit-client-5.620.2885.jar -ui oneLine -login lazypic -password A0h4AqtgAzROfnXVkHYl6tIz7mI0DqpC1tglpt8M
 ```
+
+#### Opendata
+- 아래 사이트에 접속하시면 여러분의 컴퓨터를 벤치마킹할 수 있습니다.
+- https://opendata.blender.org
