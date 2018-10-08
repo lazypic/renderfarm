@@ -4,10 +4,12 @@
 - 일반적으로 `로컬렌더링 > Sheepit렌더링` 형태로 진행합니다.
 - 필요시 지원사업, 유료 클라우드팜을 사용하여 파이널 렌더링을 진행합니다.
 
-#### 규 칙
+## 규 칙
 - 모든 렌더 파일은 하나의 .blend 파일로 Archive 저장합니다.
 - .blend 파일 내부 모든 경로는 상대경로(Relative)로 셋팅합니다.
 - 두 조건만 잘 지켜도 어떤 OS에서라도 큰 셋팅없이 간단하게 렌더링을 지원받을 수 있습니다.
+
+## Sheep It
 
 #### Sheep It 렌더링 방법
 - blender 파일하나에 모든 파일을 아카이브합니다.
@@ -61,3 +63,9 @@ $ java -jar ./sheepit-client-5.620.2885.jar -ui oneLine -login lazypic -password
 #### Opendata
 - 아래 사이트에 접속하시면 여러분의 컴퓨터를 벤치마킹할 수 있습니다.
 - https://opendata.blender.org
+
+## Athera
+- foundry Athera + dropbox를 사용한다면 씬 저장경로는 아래와 같습니다.
+```bash
+/data/dropbox
+```
