@@ -65,7 +65,7 @@ $ java -jar ./sheepit-client-5.620.2885.jar -ui oneLine -login lazypic -password
 - https://opendata.blender.org
 
 ## Athera
-- foundry ![Athera](https://athera.io/) + dropbox를 사용한다면 씬 저장경로는 아래와 같습니다.
+- foundry [Athera](https://athera.io/) + dropbox를 사용한다면 씬 저장경로는 아래와 같습니다.
 ```bash
 /data/dropbox
 ```
