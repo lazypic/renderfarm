@@ -62,7 +62,7 @@ $ java -jar ./sheepit-client-5.669.2935.jar -ui oneLine -login lazypic -password
 ```
 
 #### Opendata
-- 아래 사이트에 접속하시면 여러분의 컴퓨터를 벤치마킹할 수 있습니다.
+- 아래 사이트에 접속하시면 렌더링전 여러분의 컴퓨터의 벤치마킹 데이터를 얻을 수 있습니다.
 - https://opendata.blender.org
 
 ## Athera
